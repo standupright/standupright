@@ -34,8 +34,12 @@ I've been programming for 4 years, starting with creating mathematical models of
 
 ### My GitHub Stats
 
+<div id="stat" align="center">
 <a href="http://www.github.com/standupright"><img src="https://github-readme-stats.vercel.app/api?username=standupright&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="standupright's GitHub stats" /></a>
 
 <a href="http://www.github.com/standupright"><img src="https://github-readme-streak-stats.herokuapp.com/?user=standupright&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=standupright&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"/>
+</div>
+
+
