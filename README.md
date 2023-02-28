@@ -29,6 +29,7 @@ I've been programming for 4 years, starting with creating mathematical models of
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/standupright" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/stndupright" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
